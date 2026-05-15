@@ -32,9 +32,27 @@ Teknik pengumpulan data dilakukan melalui penyebaran kuesioner menggunakan Googl
 Data yang diperoleh kemudian dianalisis menggunakan analisis statistik, seperti uji validitas, uji reliabilitas, analisis deskriptif, serta analisis regresi untuk mengetahui pengaruh media sosial terhadap produktivitas mahasiswa. Hasil analisis tersebut diharapkan dapat memberikan gambaran mengenai hubungan antara penggunaan media sosial dan tingkat produktivitas mahasiswa pada berbagai fakultas yang diteliti.
 
 # Hasil dan Pembahasan 
-    
+| Variabel | Pernyataan                                              | Jumlah Setuju + Sangat Setuju | Persentase | Kategori      |
+| -------- | ------------------------------------------------------- | ----------------------------: | ---------: | ------------- |
+| X1       | Media sosial membantu memperoleh informasi pembelajaran |                            37 |      82,2% | Sangat Tinggi |
+| X2       | Penggunaan media sosial membuat waktu belajar berkurang |                            22 |      48,9% | Rendah        |
+| X3       | Sering menunda tugas kuliah karena bermain media sosial |                            22 |      48,9% | Rendah        |
+| X4       | Media sosial meningkatkan motivasi belajar              |                            22 |      48,9% | Rendah        |
+| X5       | Mampu mengatur waktu antara media sosial dan akademik   |                            23 |      51,1% | Cukup         |
+| X6       | Media sosial memengaruhi nilai atau prestasi akademik   |                            20 |      44,4% | Rendah        |
+
+ Keterangan Kategori
+≥ 80% = Sangat Tinggi
+70%–79% = Tinggi
+50%–69% = Cukup
+< 50% = Rendah
+Berdasarkan hasil statistik deskriptif, variabel X1 memperoleh persentase tertinggi sebesar 82,2% dengan kategori sangat tinggi. Hal ini menunjukkan bahwa sebagian besar responden memanfaatkan media sosial sebagai sarana memperoleh informasi pembelajaran dan mendukung aktivitas akademik. Dengan demikian, media sosial memiliki manfaat positif bagi mahasiswa dalam mengakses informasi dan materi pembelajaran.
+
+Variabel X2, X3, dan X4 masing-masing memperoleh persentase sebesar 48,9% dengan kategori rendah. Hasil ini menunjukkan bahwa penggunaan media sosial belum terlalu berdampak terhadap berkurangnya waktu belajar, penundaan tugas kuliah, maupun peningkatan motivasi belajar mahasiswa. Pada variabel X5 diperoleh persentase sebesar 51,1% dengan kategori cukup, yang menunjukkan bahwa sebagian responden merasa mampu mengatur waktu antara penggunaan media sosial dan kegiatan akademik. Sementara itu, variabel X6 memperoleh persentase sebesar 44,4% dengan kategori rendah, sehingga dapat disimpulkan bahwa media sosial belum memberikan pengaruh yang signifikan terhadap nilai atau prestasi akademik mahasiswa. Secara keseluruhan, media sosial lebih banyak dimanfaatkan sebagai media pembelajaran dan sumber informasi dibandingkan sebagai faktor yang memengaruhi produktivitas akademik mahasiswa secara langsung.
+
 ## Penentuan jumlah sampel
 jumlah sampel menggunakan rumus  slovin
+
 n = N/ (1 + Ne^2)
 
 
