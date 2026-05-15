@@ -69,7 +69,7 @@ X5:  Saya mampu mengatur waktu antara penggunaan media sosial dan kegiatan akade
 X6:  Penggunaan media sosial memengaruhi nilai atau prestasi akademik saya  
 
 ## Analisis deskriptif 
-Analisis deskriptif digunakan untuk menggambarkan karakteristik responden serta kecenderungan jawaban responden mengenai penggunaan media sosial terhadap aktivitas akademik mahasiswa. Analisis ini dilakukan dengan melihat distribusi frekuensi, persentase, dan rata-rata jawaban responden terhadap variabel penelitian, seperti jenis kelamin, semester, media sosial yang sering digunakan, tujuan penggunaan media sosial, lama penggunaan media sosial dalam sehari, serta pengaruh media sosial terhadap proses pembelajaran dan prestasi akademik. Hasil analisis deskriptif disajikan dalam bentuk tabel dan diagram agar mempermudah proses interpretasi data penelitian.
+
 
 ## Naive Estimation 
 | Item | Setuju | Sangat Setuju | Total Setuju | p̂    | Keterangan    |
